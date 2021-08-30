@@ -41,4 +41,4 @@ async def 정보(ctx):
      
  await ctx.channel.send(embed=embed)
 
-bot.run('ODgxNjkzOTMyNDAzMTg3Nzcy.YSwjdg.oJAhiE3sZULJCfnxEIwSTk_mHZ8')
+bot.run('ODgxNjkzOTMyNDAzMTg3Nzcy.
